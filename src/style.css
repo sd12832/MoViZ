@@ -1,0 +1,48 @@
+.links line {
+  stroke: rgba(86, 8, 117, 0.774);
+  /* stroke-opacity: 0.6; */
+  }
+
+.nodes circle {
+  stroke: rgb(79, 8, 107);
+  stroke-width: 1.5px;
+}
+
+/* The CSS code for a Responsive SVG */
+
+#svgcontainer {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+#searchbox {
+  position:relative;
+  top: 10px;
+  left: 100px;
+}
+
+#option10{
+  position:relative;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+#option20{
+  position:relative;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#option30{
+  position:relative;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#sButton {
+  background-color:#182e06;
+  color:white;
+}
