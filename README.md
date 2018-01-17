@@ -8,7 +8,7 @@
 
 The interface of the program currently looks like: 
 
-I believe that this program will be useful for three sets of people: 
+I believe that this program will be useful for two sets of people: 
   - People curious about the techniques that can be used to build any kind of data vizualization application from a database. 
   - People who want to **investigate** *d3.js* and data vizualization **using** *d3.js*. 
   
